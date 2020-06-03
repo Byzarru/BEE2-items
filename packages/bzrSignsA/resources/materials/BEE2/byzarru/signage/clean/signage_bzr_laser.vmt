@@ -1,0 +1,8 @@
+LightMappedGeneric
+{
+$basetexture "BEE2/byzarru/signage/clean/signage_bzr_laser"
+$surfaceprop glass
+$selfillum 1
+$decal 1
+"%keywords" portal2
+}

@@ -1,0 +1,8 @@
+"ID"		"BYZARRU_SIGNAGE_B"
+"Name"		"Byzarru Signage Pack B"
+"Desc"      "Custom numerals and lettering signage created by Byzarru."
+"Prerequisites"
+{
+	"Package" "BEE2_SIGNAGE"
+}
+

@@ -1,0 +1,29 @@
+"ID"		"BYZARRU_SIGNAGE_A"
+"Name"		"Byzarru Signage Pack A"
+"Desc"      "Custom test element and advisory signage created by Byzarru."
+"Prerequisites"
+{
+	"Package" "BEE2_SIGNAGE"
+}
+
+"Signage"
+	{
+	"ID" "SIGN_BZR_LASER"
+	"Name" "Laser Emitter"
+	"Styles"
+		{
+		"BEE2_CLEAN"
+			{
+			"overlay" "BEE2/byzarru/signage/clean/signage_bzr_laser"
+			"icon"    "items/byzarru/signage/signage_bzr_laser.png"
+			}
+		"BEE2_PORTAL_1" "BEE2_CLEAN"
+		"BEE2_OVERGROWN"
+			{
+			"overlay"   "BEE2/byzarru/signage/overgrown/signage_bzr_laser_wasted"
+			"icon"    "items/byzarru/signage/signage_bzr_laser_wasted.png"
+			}
+		"BEE2_1970s" "BEE2_CLEAN"
+		"BEE2_1980s" "BEE2_CLEAN"
+		}
+	}
