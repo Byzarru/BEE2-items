@@ -23,7 +23,20 @@
 			"overlay"   "BEE2/byzarru/signage/overgrown/signage_bzr_laser_wasted"
 			"icon"    "items/byzarru/signage/signage_bzr_laser_wasted.png"
 			}
-		"BEE2_1970s" "BEE2_CLEAN"
-		"BEE2_1980s" "BEE2_CLEAN"
+		"BEE2_1950s"
+			{
+			"overlay"   "BEE2/byzarru/signage/50s/signage_bzr_laser_50s"
+			"icon"    "items/byzarru/signage/signage_bzr_laser_50s.png"
+			}
+		"BEE2_1970s"
+			{
+			"overlay"   "BEE2/byzarru/signage/70s/signage_bzr_laser_70s"
+			"icon"    "items/byzarru/signage/signage_bzr_laser_80s.png"
+			}
+		"BEE2_1980s"
+			{
+			"overlay"   "BEE2/byzarru/signage/80s/signage_bzr_laser_80s"
+			"icon"    "items/byzarru/signage/signage_bzr_laser_80s.png"
+			}
 		}
 	}
